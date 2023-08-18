@@ -1,1 +1,1 @@
-Dummy sample to learn git and git branches
+Dummy sample to learn git and git branches to practice

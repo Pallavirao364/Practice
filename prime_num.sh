@@ -1,4 +1,5 @@
 #!/bin/bash
+#This program is to identify 
 echo "enter the number to be checked"
 read var
 num=$var
